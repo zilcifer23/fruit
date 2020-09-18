@@ -2,7 +2,7 @@ package basket
 
 type Fruit struct {
 	Name string
-	Color String
+	Color string
 }
 
 func Fruiter(n, c string) *Fruit {
