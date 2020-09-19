@@ -1,7 +1,7 @@
 package basket
 
 type Fruit struct {
-	Name string
+	Name  string
 	Color string
 }
 
@@ -11,7 +11,3 @@ func Fruiter(n, c string) *Fruit {
 	return &f
 
 }
-	
-	
-	
-	
